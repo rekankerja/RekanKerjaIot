@@ -12,6 +12,8 @@ Rekan kerja diprogram menggunakan bahasa pemrograman C++ dengan framework Arduin
   
 ## Contoh produk  
 ![Rekan Kerja](https://raw.githubusercontent.com/rekankerja/RekanKerjaIot/main/Images/RekanKerja.jpeg)  
+![Rekan Kerja Lite Produk](https://raw.githubusercontent.com/rekankerja/RekanKerjaIot/main/Images/Rekan%20kerja%20Lite.jpeg)
+![Rekan Kerja Original Produk](https://raw.githubusercontent.com/rekankerja/RekanKerjaIot/main/Images/Rekan%20Kerja%20Original.jpeg)
 
 ## Getting Started  
 Rangkaian yang digunakan pada rekan kerja versi original adalah sebagai berikut:  
